@@ -45,3 +45,8 @@ main {
   display: flex;
   flex-direction: column;
 }
+
+#satisfaction-block {
+  display: flex;
+  flex-direction: row;
+}
