@@ -35,5 +35,5 @@ main {
 
 #bloco-formulario {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
