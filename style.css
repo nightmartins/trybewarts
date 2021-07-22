@@ -36,7 +36,12 @@ main {
   flex-direction: row;
 }
 
-#family-input {
+#family-block {
+  display: flex;
+  flex-direction: column;
+}
+
+#content-block {
   display: flex;
   flex-direction: column;
 }
