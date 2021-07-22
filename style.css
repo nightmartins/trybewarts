@@ -9,7 +9,6 @@
   align-self: flex-start;
   width: 50px;
   height: 50px;
-  align-self: center;
 }
 
 .trybewarts-login {
@@ -19,9 +18,8 @@
 
 main {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  }
+  flex-flow: row wrap;
+}
 
 #evaluation-form {
   display: flex;
